@@ -1,12 +1,13 @@
-<template>
-  <div class="hello">
 
+<template>
+  <div>
+    <h2>jhxDemo</h2>
   </div>
 </template>
 
 <script>
 export default {
-  name: 'HelloWorld',
+  name: 'jhxDemo',
 
 }
 </script>
