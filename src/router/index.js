@@ -1,5 +1,6 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
+import TodoList from "../views/TodoList.vue";
 
 const News = () => import('../components/News.vue');
 const AllNews =() => import("../views/jhx/news/AllNews.vue");
